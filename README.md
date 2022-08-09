@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-This component provides integration with Remeha branded thermostat (**NOT YET TESTED WITH [eTwist](https://www.remeha.nl/product/etwist)**)
+This component will eventually provide integration with Remeha branded thermostat (**NOT YET TESTED WITH [eTwist](https://www.remeha.nl/product/etwist)**)
 ## How to install
 You can use HACS to install this integration as custom repository
 
