@@ -1,4 +1,4 @@
 {
-    "name": "BAXI thermostat",
+    "name": "REMEHA thermostat",
     "domains": ["climate", "sensor"]
 }
